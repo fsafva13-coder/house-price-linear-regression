@@ -47,19 +47,19 @@ The goal is not just prediction — but **interpretability**: understanding *whi
 ## 📸 Screenshots
 
 ### Correlation Heatmap
-![Correlation Heatmap](screenshots/correlation_heatmap.png)
+<img width="934" height="590" alt="output" src="https://github.com/user-attachments/assets/1d327c8c-aa7d-46cf-b051-5e947c5fc58a" />
 > Feature correlation matrix — MedInc shows the strongest positive correlation with house value.
 
 ### Feature Coefficients
-![Feature Coefficients](screenshots/feature_coefficients.png)
+<img width="889" height="490" alt="2" src="https://github.com/user-attachments/assets/1f2944dd-fee4-4fad-b767-61ce896c1d15" />
 > Ranked bar chart of Linear Regression coefficients — blue = positive impact, red = negative impact.
 
 ### Actual vs Predicted
-![Actual vs Predicted](screenshots/actual_vs_predicted.png)
+<img width="790" height="590" alt="3" src="https://github.com/user-attachments/assets/04f58355-479e-4d7f-bb2d-238523bfc149" />
 > Scatter plot comparing model predictions to ground truth values. The red dashed line represents perfect prediction.
 
 ### Residuals Plot
-![Residuals](screenshots/residuals_plot.png)
+<img width="789" height="490" alt="4" src="https://github.com/user-attachments/assets/881b2ee2-8a3e-4f34-b5a1-1667d7547ded" />
 > Residuals scattered around zero — indicates no severe systematic bias in predictions.
 
 ---
